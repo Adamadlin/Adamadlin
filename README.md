@@ -11,6 +11,9 @@ i've been learinig code for 2 years and have a passion for web development , loo
 * 🧠  I'm learning react js
 * 🤝  I'm open to collaborating on interesting projects
 
+<a href="https://www.github.com/Adamadlin" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Adamadlin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -32,6 +35,8 @@ i've been learinig code for 2 years and have a passion for web development , loo
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Adamadlin"><img src="https://github-readme-stats.vercel.app/api?username=Adamadlin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adamadlin's GitHub stats" /></a>
 
 <a href="http://www.github.com/Adamadlin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamadlin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
