@@ -93,7 +93,7 @@ AI pipelines and GPU workflows on ARM64:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/AdamAdlin"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-<a href="https://github.com/Adamadlin"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="https://github.com/Adamadlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" width="40"/></a>
 <a href="https://codepen.io/adamadlin"><img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png"/></a>
 <a href="https://discord.com/users/vangalaxor"><img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
 </p>
