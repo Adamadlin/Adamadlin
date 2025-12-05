@@ -55,7 +55,7 @@ AI pipelines and GPU workflows on ARM64:
 
 ---
 
-# 🧠 Tech Stack (Full Icon Set)
+# 🧠 Tech Stack 
 
 <p align="left">
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
@@ -100,7 +100,7 @@ AI pipelines and GPU workflows on ARM64:
 
 ---
 
-# 🔥 GitHub Stats (Neon Cyberpunk)
+# 🔥 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -120,7 +120,7 @@ AI pipelines and GPU workflows on ARM64:
 
 ---
 
-# 📌 Top Repositories (Working Image Cards)
+# 📌 Top Repositories 
 
 <div align="center">
   <a href="https://github.com/Adamadlin/production-grade-ai-project">
@@ -144,13 +144,4 @@ AI pipelines and GPU workflows on ARM64:
 
 ---
 
-# 🧬 Final Notes
 
-This README is:
-
-✨ Cyberpunk-styled  
-✨ Fully modern  
-✨ Recruiter-optimized  
-✨ Uses **working icons**, **working repo cards**, and **no broken images**  
-
----
