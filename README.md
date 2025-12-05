@@ -161,66 +161,31 @@ If you’re looking for someone who can **own a feature end-to-end** — from da
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="Adamadlin GitHub stats"
-/>
+  />
 </p> -->
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Adamadlin&theme=tokyonight&hide_border=true" 
     alt="GitHub streak stats"
-/>
+  />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Adamadlin&theme=tokyo-night&hide_border=true&area=true" 
     alt="GitHub activity graph"
-/>
+  />
 </p>
 
+<!-- ✨ Removed the BROKEN Top Languages card and replaced with neon badges -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adamadlin&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top languages"
-/>
+  
+  <img src="https://img.shields.io/badge/AI%20ENGINEER-CUDA%20%7C%20LLMs-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-REACT%20%7C%20NEXT.JS-f5e300?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/BACKEND-NODE%20%7C%20FASTAPI-00ffaa?style=for-the-badge" />
 </p>
 
 ---
-
-# 📌 Top Repositories 
-
-
-
-<p align="center">
-
-  <a href="https://github.com/Adamadlin/production-grade-ai-project">
-    <img 
-      src="https://img.shields.io/badge/Production--Grade%20AI%20Project-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff00ff&color=0d1117" 
-      alt="production-grade-ai-project"
-    />
-  </a>
-
-  <a href="https://github.com/Adamadlin/news-aggregator-zionet">
-    <img 
-      src="https://img.shields.io/badge/News%20Aggregator%20(Zionet)-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=00e6ff&color=0d1117" 
-      alt="news-aggregator-zionet"
-    />
-  </a>
-
-  <a href="https://github.com/Adamadlin/forkify-course-app">
-    <img 
-      src="https://img.shields.io/badge/Forkify%20Course%20App-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=9d00ff&color=0d1117" 
-      alt="forkify-course-app"
-    />
-  </a>
-
-  <a href="https://github.com/Adamadlin/bankist--app">
-    <img 
-      src="https://img.shields.io/badge/Bankist%20App-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff00ff&color=0d1117" 
-      alt="bankist--app"
-    />
-  </a>
-
-</p>
 
 ---
