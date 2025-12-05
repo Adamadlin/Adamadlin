@@ -1,9 +1,7 @@
 <h1 align="center">⚡ Adam Adlin ⚡</h1>
 <h3 align="center">Full-Stack Developer • AI Systems Engineer • Practical Software Engineer (2026)</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlzNzE2YzZ2M2kwbHJjY2JzNXM5ZGdqaWV6bWpkdmZpMHg5dWs2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQdCqKA7m7QxW/giphy.gif" width="250"/>
-</p>
+
 
 ---
 
@@ -152,10 +150,4 @@ Built AI pipelines on ARM64 hardware:
   </a>
 </div>
 
----
 
-# 🧬 Final Notes
-
-This README is fully styled in **neon cyberpunk**, optimized for recruiters, and showcases you as a **beyond-junior** engineer who builds *systems*, not just apps.
-
----
