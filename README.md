@@ -133,22 +133,22 @@ If you’re looking for someone who can **own a feature end-to-end** — from da
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/AdamAdlin" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="48"/>
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="48" alt="LinkedIn"/>
 </a>
 
 <!-- GitHub (Neon) -->
 <a href="https://github.com/Adamadlin" target="_blank">
-  <img src="https://img.icons8.com/nolan/64/github.png" width="48"/>
+  <img src="https://img.icons8.com/nolan/64/github.png" width="48" alt="GitHub"/>
 </a>
 
 <!-- CodePen (Bright Visible Icon) -->
 <a href="https://codepen.io/adamadlin" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/codepen.png" width="48"/>
+  <img src="https://img.icons8.com/fluency/96/codepen.png" width="48" alt="CodePen"/>
 </a>
 
 <!-- Discord -->
 <a href="https://discord.com/users/vangalaxor" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/discord-logo.png" width="48"/>
+  <img src="https://img.icons8.com/fluency/96/discord-logo.png" width="48" alt="Discord"/>
 </a>
 
 </p>
@@ -157,53 +157,70 @@ If you’re looking for someone who can **own a feature end-to-end** — from da
 
 # 🔥 GitHub Stats 
 
+<!-- <p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Adamadlin GitHub stats"
+/>
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Adamadlin&theme=tokyonight&hide_border=true" 
+    alt="GitHub streak stats"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adamadlin&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adamadlin&theme=tokyo-night&hide_border=true&area=true" 
+    alt="GitHub activity graph"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamadlin&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamadlin&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adamadlin&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top languages"
+/>
 </p>
 
 ---
 
 # 📌 Top Repositories 
 
-<div align="center">
+
+
+<p align="center">
+
   <a href="https://github.com/Adamadlin/production-grade-ai-project">
-    <img width="45%" 
-         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=production-grade-ai-project&theme=tokyonight&hide_border=true"/>
+    <img 
+      src="https://img.shields.io/badge/Production--Grade%20AI%20Project-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff00ff&color=0d1117" 
+      alt="production-grade-ai-project"
+    />
   </a>
 
   <a href="https://github.com/Adamadlin/news-aggregator-zionet">
-    <img width="45%" 
-         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=news-aggregator-zionet&theme=tokyonight&hide_border=true"/>
+    <img 
+      src="https://img.shields.io/badge/News%20Aggregator%20(Zionet)-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=00e6ff&color=0d1117" 
+      alt="news-aggregator-zionet"
+    />
   </a>
-</div>
 
-<br/>
-
-<div align="center">
   <a href="https://github.com/Adamadlin/forkify-course-app">
-    <img width="45%" 
-         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=forkify-course-app&theme=tokyonight&hide_border=true"/>
+    <img 
+      src="https://img.shields.io/badge/Forkify%20Course%20App-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=9d00ff&color=0d1117" 
+      alt="forkify-course-app"
+    />
   </a>
 
   <a href="https://github.com/Adamadlin/bankist--app">
-    <img width="45%" 
-         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=bankist--app&theme=tokyonight&hide_border=true"/>
+    <img 
+      src="https://img.shields.io/badge/Bankist%20App-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=ff00ff&color=0d1117" 
+      alt="bankist--app"
+    />
   </a>
-</div>
-  
 
-
+</p>
 
 ---
