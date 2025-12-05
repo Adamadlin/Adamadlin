@@ -1,49 +1,52 @@
 <h1 align="center">⚡ Adam Adlin ⚡</h1>
 <h3 align="center">Full-Stack Developer • AI Systems Engineer • Practical Software Engineer (2026)</h3>
 
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/3o7TKsQdCqKA7m7QxW/giphy.gif" width="250"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects (My Best Work)
 
 ## 🔥 Production-Grade AI System (FastAPI + Ollama + Next.js)
-A fully offline, secure RAG AI system with:
+A fully offline, secure RAG AI system featuring:
 - Vector embeddings
-- Document ingestion
+- Document ingestion pipeline
 - FastAPI backend
-- Ollama LLM serving
-- Modern Next.js chat UI
-- Full Dockerization
+- Ollama local LLM serving
+- Modern real-time Next.js chat UI
+- Fully Dockerized for deployment
 
 ---
 
 ## 📰 News Aggregator – Distributed Microservices (Node.js + Docker + Dapr)
-A real distributed system featuring:
-- Independent microservices
-- Dapr pub/sub
-- REST APIs
-- Logging layer
-- Jest testing suite
-- Container orchestration
+A real distributed backend system:
+- Independent Node.js microservices  
+- Dapr pub/sub events  
+- REST API gateway  
+- Logging & monitoring  
+- Jest testing suite  
+- Docker container orchestration  
 
 ---
 
 ## 🤖 Jetson Orin Nano GPU Projects
-Built AI pipelines on ARM64 hardware:
-- Stable Diffusion on GPU
-- CUDA-optimized containers
-- End-to-end ML workflow
-- Fully local AI studio
+AI pipelines & GPU workflows on ARM64:
+- Stable Diffusion running locally on GPU  
+- CUDA-accelerated containers  
+- Local AI development environment  
+- NVIDIA Jetson-powered ML workflows  
 
 ---
 
 ## 🎓 Backend, OOP & Academic Systems (Java, Python, SQL)
-- CRUD databases
-- OOP class hierarchies
-- MVC patterns
-- CLI tools & automation
-- Algorithmic problem solving
+Includes:
+- CRUD database systems  
+- OOP inheritance & polymorphism  
+- MVC patterns  
+- CLI automation tools  
+- Algorithmic problem solving  
 
 ---
 
@@ -51,9 +54,9 @@ Built AI pipelines on ARM64 hardware:
 
 - 🌍 Based in **Israel**
 - 🎓 Practical Software Engineer — **Graduating August 2026**
-- 🔥 Passion for **AI, full-stack systems, distributed backends**
+- 🔥 Passion for **AI, full-stack systems, and distributed backends**
 - ✉️ Email: **adamadlik9@gmail.com**
-- 🤝 Open to collaboration on AI, full-stack and engineering projects
+- 🤝 Open to collaboration on AI, backend systems, and engineering tools
 
 ---
 
@@ -72,7 +75,7 @@ Built AI pipelines on ARM64 hardware:
 ## **Frontend**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
@@ -98,10 +101,18 @@ Built AI pipelines on ARM64 hardware:
 # 🌐 Social Links
 
 <p align="left">
-<a href="https://www.linkedin.com/in/AdamAdlin" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-<a href="https://www.github.com/Adamadlin" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
-<a href="https://www.codepen.io/adamadlin" target="_blank"><img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png"/></a>
-<a href="https://discord.com/users/vangalaxor" target="_blank"><img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
+<a href="https://www.linkedin.com/in/AdamAdlin" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+<a href="https://www.github.com/Adamadlin" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
+<a href="https://codepen.io/adamadlin" target="_blank">
+  <img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png"/>
+</a>
+<a href="https://discord.com/users/vangalaxor" target="_blank">
+  <img width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/>
+</a>
 </p>
 
 ---
@@ -126,7 +137,7 @@ Built AI pipelines on ARM64 hardware:
 
 ---
 
-# 📌 Top Repositories (Glowing Neon Cards)
+# 📌 Top Repositories 
 
 <div align="center">
   <a href="https://github.com/Adamadlin/production-grade-ai-project">
@@ -150,4 +161,9 @@ Built AI pipelines on ARM64 hardware:
   </a>
 </div>
 
+---
+
+# 🧬 Final Notes
+
+This README is built in **full neon cyberpunk style**, fully optimized for recruiters, and clearly demonstrates your level as a developer who builds **systems**, not just simple apps.
 
