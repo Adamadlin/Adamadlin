@@ -1,165 +1,195 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">🌟 Hi, I'm <strong>Adam Adlin</strong></h1>
-<h3 align="center">Full-Stack Developer · AI Systems Builder · Practical Software Engineer (2026)</h3>
+<!-- ========================================================= -->
+<!-- 🌐 CYBERPUNK NEON GITHUB README for ADAM ADLIN             -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100"/>
 </p>
 
----
+<h1 align="center" style="color:#00eaff; font-weight:800;">
+  ⚡ ADAM ADLIN ⚡
+</h1>
 
-## 🚀 Featured Projects (My Strongest Work)
-
-### 🔥 **Production-Grade AI System (FastAPI + Ollama + Next.js)**  
-A fully private RAG (Retrieval-Augmented Generation) pipeline:  
-- Local LLM inference  
-- Vector embeddings + search  
-- FastAPI backend  
-- Real-time chat UI  
-- Fully Dockerized  
-- No cloud, no external API required
+<h3 align="center" style="color:#8a2be2;">
+  Full-Stack Developer • AI Systems Builder • Practical Software Engineer (2026)
+</h3>
 
 ---
-
-### 📰 **News Aggregator – Microservices Architecture**  
-A distributed backend system using:  
-- Node.js + Dapr  
-- REST microservices  
-- Queueing, subscriptions, logs  
-- Docker orchestration  
-- Jest tests  
-- Clean service boundaries
-
----
-
-### 🤖 **Jetson Orin Nano AI Engineering**  
-GPU-accelerated ML environment including:  
-- Stable Diffusion local deployment  
-- CUDA 12 workflows  
-- NVIDIA containers  
-- Local AI pipelines and dev toolchains
-
----
-
-### 🧩 Additional Portfolio  
-- Java OOP projects  
-- SQL/CRUD backend systems  
-- Python utilities + automation  
-- Frontend apps with React & Next.js  
-
----
-
-## 🎯 About Me
-
-- 🇮🇱 Based in **Israel**  
-- 🎓 Practical Software Engineering student — graduating **August 2026**  
-- ✉️ Contact me: **adamadlik9@gmail.com**  
-- 🌱 Currently leveling up: **Next.js, React, Node.js, Docker, AI engineering**  
-- 🤝 Open to full-stack, AI, backend, or microservices collaborations  
-
----
-
-# 🧠 Tech Stack
-
-## **Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JS">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" alt="TS">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" alt="Java">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" alt="PHP">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" alt="Bash">
-</p>
-
-## **Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" alt="Next.js">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="Tailwind">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" alt="Bootstrap">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" alt="SASS">
-</p>
-
-## **Backend & Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" alt="MongoDB">
-</p>
-
-## **Tools**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" alt="Docker">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" alt="MacOS">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code">
-</p>
-
----
-
-# 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/AdamAdlin" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32">
-  </a>
-  <a href="https://github.com/Adamadlin" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32">
-  </a>
-  <a href="https://codepen.io/adamadlin" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32">
-  </a>
-  <a href="https://discord.com/users/vangalaxor" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32">
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adamadlin&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamadlin&theme=react-dark&hide_border=true&area=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamadlin&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-8A2BE2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Israel-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20AI%20Systems-39FF14?style=for-the-badge" />
 </p>
 
 ---
 
-# 📌 Top Repositories
+# 🌌 About Me
+
+I'm a developer who builds **end-to-end systems**: frontend, backend, AI, GPU workflows, and distributed architectures.
+
+My work blends **software engineering + AI + cloud/devops** with a futuristic approach — everything modular, scalable, optimized.
+
+### 💠 What I Do
+- Build **full-stack apps** with Next.js, React, and Node.js  
+- Engineer **AI pipelines** with local LLMs, FastAPI, and vector DBs  
+- Develop **distributed microservices** using Docker & Dapr  
+- Run **GPU-accelerated AI** on Jetson Orin Nano  
+- Design **clean backend architectures** (logging, monitoring, testing)  
+
+### 💌 Contact
+📧 **adamadlik9@gmail.com**  
+🌐 **Israel**  
+🤝 Open to collaboration in **AI, backend engineering, full-stack projects**
+
+---
+
+# 🟣 Featured Projects (My Best Work)
+
+## ⚡ **Production-Grade AI System – FastAPI + Ollama + Next.js**
+A complete offline, private RAG system:
+- Local LLM inference (Ollama)
+- Embeddings + vector search
+- Full Next.js chat UI
+- Modular FastAPI backend
+- Fully Dockerized + scalable
+
+---
+
+## 📰 **News Aggregator – Microservices Architecture**
+Distributed system using:
+- Node.js microservices
+- Dapr sidecars & service mesh
+- Central logging
+- REST APIs
+- Jest automated tests
+- Clean CI-ready layout
+
+---
+
+## 🤖 **Jetson Orin Nano – GPU AI Environment**
+- Stable Diffusion (local)
+- CUDA-optimized containers
+- Edge AI pipelines  
+- ARM64 performance tuning  
+- NVIDIA Jetson AI Lab workflows
+
+---
+
+## 🛠 **Backend + Academic Engineering**
+- Java OOP, design patterns, databased systems  
+- Python scripts, automation tools  
+- SQL & NoSQL CRUD architectures  
+- Algorithmic problem solving  
+
+---
+
+# 🔥 Tech Stack
+
+## 🔸 Languages
+<p align="left">
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"/>
+</p>
+
+## 🔸 Frontend
+<p align="left">
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"/>
+</p>
+
+## 🔸 Backend / DB
+<p align="left">
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"/>
+</p>
+
+## 🔸 Tools
+<p align="left">
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"/>
+</p>
+
+---
+
+# 🔮 Socials (Neon Mode)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/AdamAdlin" target="_blank">
+  <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
+</a>
+<a href="https://www.github.com/Adamadlin" target="_blank">
+  <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/>
+</a>
+<a href="https://www.codepen.io/adamadlin" target="_blank">
+  <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg"/>
+</a>
+<a href="https://discord.com/users/vangalaxor" target="_blank">
+  <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"/>
+</a>
+</p>
+
+---
+
+# 🧬 GitHub Stats (CYBERPUNK EDITION)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamadlin&show_icons=true&theme=tokyonight&hide_border=true&icon_color=39FF14&title_color=00E5FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adamadlin&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=39FF14&currStreakLabel=00E5FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamadlin&theme=react-dark&hide_border=true&area=true&color=39FF14&line=00E5FF&point=8A2BE2" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamadlin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Top Repositories (Neon Highlights)
 
 <div align="center">
   <a href="https://github.com/Adamadlin/production-grade-ai-project">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=production-grade-ai-project&theme=tokyonight&hide_border=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=production-grade-ai-project&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/Adamadlin/news-aggregator-zionet">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=news-aggregator-zionet&theme=tokyonight&hide_border=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=news-aggregator-zionet&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
-<br><br>
+<br/>
 
 <div align="center">
   <a href="https://github.com/Adamadlin/forkify-course-app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=forkify-course-app&theme=tokyonight&hide_border=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=forkify-course-app&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/Adamadlin/bankist--app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=bankist--app&theme=tokyonight&hide_border=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=bankist--app&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-# 🎉 Thanks for visiting!
+# 🏁 End of Line_
 
-If you want to collaborate on **AI**, **full-stack apps**, or **backend systems**, feel free to reach out anytime.
+<p align="center">
+  <img src="https://i.imgur.com/1P9Z1aM.gif" width="200">
+</p>
+
+<p align="center" style="color:#00eaff;">
+  <b>“The future is written in code.”</b>
+</p>
