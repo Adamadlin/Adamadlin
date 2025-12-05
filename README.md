@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff00ff?style=for-the-badge&logo=github&logoColor=000000" />
   <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20FULL--STACK-00e6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VIBE-NEON%20CYBERPUNK-9d00ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIBE-unending%20curiosity-9d00ff?style=for-the-badge" />
 </p>
 
 ---
