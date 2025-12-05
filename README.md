@@ -179,11 +179,13 @@ If you’re looking for someone who can **own a feature end-to-end** — from da
 
 <div align="center">
   <a href="https://github.com/Adamadlin/production-grade-ai-project">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=production-grade-ai-project&theme=tokyonight&hide_border=true"/>
+    <img width="45%" 
+         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=production-grade-ai-project&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/Adamadlin/news-aggregator-zionet">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=news-aggregator-zionet&theme=tokyonight&hide_border=true"/>
+    <img width="45%" 
+         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=news-aggregator-zionet&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
@@ -191,12 +193,17 @@ If you’re looking for someone who can **own a feature end-to-end** — from da
 
 <div align="center">
   <a href="https://github.com/Adamadlin/forkify-course-app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=forkify-course-app&theme=tokyonight&hide_border=true"/>
+    <img width="45%" 
+         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=forkify-course-app&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/Adamadlin/bankist--app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adamadlin&repo=bankist--app&theme=tokyonight&hide_border=true"/>
+    <img width="45%" 
+         src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Adamadlin&repo=bankist--app&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
+  
+
+
 
 ---
